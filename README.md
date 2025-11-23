@@ -81,5 +81,10 @@ This means 18 is a Harshad number.
 https://github.com/atharvdatar19/discrete-math-python-codes/tree/main/screenshots
 ## 📄 Project Report
 The full report explaining all programs is available as:
+https://github.com/atharvdatar19/discrete-math-python-codes/blob/main/pro_report.pdf
+
+
+THANK YOU !!!!
+
 
 
